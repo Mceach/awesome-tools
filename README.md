@@ -5,7 +5,7 @@ Welcome to the official repository of my tools collection! This repository serve
 
 ## 🚀 Tools Overview  
 
-### 1. [Snow Day Calculator](https://snowdaycalculator.online/)  
+### 1. [Snow Day Calculator](https://snowdaypredictor.app/)  
 **Launch Date:** 2024-12-31  
 
 **Description:**  
