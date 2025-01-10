@@ -56,6 +56,21 @@ Generate realistic random addresses for testing, mockups, or creative projects. 
 
 ---  
 
+### 4. [Animal Sounds](https://animalsounds.io/)
+Launch Date: 2025-01-10
+
+Description
+Animal Sounds is an engaging platform that allows users to explore the unique calls and sounds of animals from around the world. Perfect for nature enthusiasts, educators, and curious minds, this tool brings the fascinating world of wildlife directly to your ears.
+
+Features
+Extensive library of animal sounds from various species.
+Easy-to-navigate interface for seamless exploration.
+Fun facts and educational details about each animal.
+Highlights
+Completely free to use.
+Accessible on both desktop and mobile devices.
+Perfect for learning, teaching, or just enjoying the beauty of nature.
+
 ## 🏷️ Repository Topics  
 This repository is tagged with the following topics to help users find it easily:  
 `tools`, `utility`, `web-apps`, `free-tools`, `online-tools`  
